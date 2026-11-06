@@ -4,6 +4,7 @@ public class Main {
             System.out.println(s1.getName());
             System.out.println(s1.getAge());
             System.out.println("age");
+            System.out.println("Laya");
 
         }
     }
